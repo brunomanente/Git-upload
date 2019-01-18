@@ -1,0 +1,32 @@
+mkdir   * cria uma pasta
+cd 		* para acessar uma pasta cd nome da pasta
+cd..	* sai da pasta
+rmdir	* remove a pasta (vazia)
+
+touch	* cria um arquivo (vazio)
+cp		* copiar arquivos cp nomedoarquivo local
+mv		* o comando mv move os arquivos mv nomedoarquivo local 
+mv 		* tambem pode renomear arquivos ex mv nomedoarquivo novonome
+rm		* o comando apaga os arquivos rm nomedoarquivo
+rm -rf	* excluir pasta que contem arquivos
+
+ls		* lista os arquivos dentro da pasta
+ls -l 	* mostra os arquivos com mais detalhes
+pwd		* mostra o local onde estamos no git
+clear	* limpar a tela
+
+
+configurar o GIT EM CASA
+git config --global user.name "brunomanente"
+git config --global user.email "bruno.manente0@gmail.com"
+
+clonar repositorio**
+git clone https://github/brunomanente/
+
+git add nome do arquivo
+git status
+git commit 
+git push
+git pull
+
+Meu Primeiro Jogo
